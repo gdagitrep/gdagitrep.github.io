@@ -18,7 +18,7 @@ If you're listing more than a few rental units, you already know the chaos:
 
 This guide walks you through how to automate the messy parts of the job—from first contact to tour scheduling—so you can focus on closing deals, not answering DMs all day.
 
-We’ll show you how to do this using **Dafri**, a tool built specifically to handle this problem on Facebook Marketplace and Instagram.
+We’ll show you how to do this using **Dafri**, a tool built specifically to handle this problem on Facebook Marketplace.
 
 
 ## Part 1: The 3 Types of Messages Every Leasing Agent Gets
@@ -26,6 +26,8 @@ We’ll show you how to do this using **Dafri**, a tool built specifically to ha
 **1. Is this still available?**
 
 > The #1 question—and a total time suck.
+
+![still_available]({{ site.baseurl }}/images/is_this_still_available.png)
 
 **2. Can I see it today?**
 
@@ -52,7 +54,7 @@ Connect your calendar and let serious renters book a slot directly—no back-and
 
 ## Part 3: How to Set Up Dafri in Under 10 Minutes
 
-**Step 1:** Go to [dafriai.com](https://dafriai.com) and sign in with your Facebook or Instagram account.
+**Step 1:** Go to [dafriai.com](https://dafriai.com) and sign in with your Facebook account.
 
 **Step 2:** Choose a listing and set up your basic info (rent, location, availability, etc.)
 
