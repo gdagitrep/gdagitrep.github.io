@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginner’s Guide to Automating Rental Inquiries
+title: Leasing Agent's Guide to Automating Rental Inquiries
 
 ---
  
