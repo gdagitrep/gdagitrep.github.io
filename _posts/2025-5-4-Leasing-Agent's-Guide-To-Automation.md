@@ -36,7 +36,7 @@ We’ll show you how to do this using **Dafri**, a tool built specifically to ha
 
 > Renters want fast answers, not a wall of text or a form to fill.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![intake_form]({{ site.baseurl }}/images/intake_form.webp)
 
 ## Part 2: What You Can Automate
 
