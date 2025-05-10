@@ -20,7 +20,6 @@ This guide walks you through how to automate the messy parts of the job—from f
 
 We’ll show you how to do this using **Dafri**, a tool built specifically to handle this problem on Facebook Marketplace and Instagram.
 
----
 
 ## Part 1: The 3 Types of Messages Every Leasing Agent Gets
 
@@ -49,7 +48,7 @@ Ask them simple questions like move-in date, budget, income, credit score—all 
 **3. Auto-book tours**
 Connect your calendar and let serious renters book a slot directly—no back-and-forth needed.
 
----
+
 
 ## Part 3: How to Set Up Dafri in Under 10 Minutes
 
@@ -63,7 +62,7 @@ Connect your calendar and let serious renters book a slot directly—no back-and
 
 **Step 5:** Turn on automation and let it run.
 
----
+
 
 ## Part 4: Best Practices
 
@@ -89,7 +88,7 @@ From users of Dafri:
 * 30% higher show-up rate
 * 50% less time spent answering messages
 
----
+
 
 ## Try Dafri Free for 30 Days
 
@@ -97,12 +96,12 @@ You can try Dafri free on one of your listings for 30 days—no card needed. If 
 
 **Start here:** [https://dafriai.com](https://dafriai.com)
 
----
+
 
 ## Got Questions?
 
 Feel free to DM us, drop a comment in the group, or book a quick setup call—we’ll help you get started.
 
----
+
 
 **Made by someone who got tired of losing renters to delayed replies.**
